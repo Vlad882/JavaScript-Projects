@@ -7,3 +7,6 @@ var Sent2 = 'and this is the end of the string';    // assigning variable 2
 document.write(Sent1 + Sent2);  // Concatenating variables
 
 document.write(5+5);  // Expression
+
+
+
