@@ -6,3 +6,10 @@ function myFunction() {
     document.getElementById("Concatenate").innerHTML=sentence;   //using document.getElementById() method
 
     }
+
+
+    let x = myFunction(4, 3);
+
+    function myFunction(a, b) {
+      return a * b;
+    }
